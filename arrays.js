@@ -10,3 +10,8 @@ studentsPerGroup.pop();
 
 aBunchOfBooleans.unshift(false, false);
 /* This method will add two booleans (the provided values passed as arguments) to the first two index positions of the array */
+
+console.log(favFoods[2]); //will log 'waffles'
+console.log(studentsPerGroup[4]) //will return 6
+
+/* Arrays are based on 0-base index, so the first element will be at position 0, the second at position 1, etc.*/
